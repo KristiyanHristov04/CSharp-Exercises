@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "roqJ3OeYqy6pDFNzLo34C53Og60TZNTvLcmpAKpD8YB4QuHrc7FW4LljMGi7RDtxVIatS58qLvbHM2eSTbZpVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\RecursionExercises\\Task010\\Task10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
