@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I5Wc7JvEoikRGLYovDcQgskQVLQ//SWbBJ7VveZ0Tiph7f2aPkzTpD1Nzi3tLdPgx3RA7GoBtnJ518aYBlhZCA==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio 2022 solutions\\UnitTesting-Exercisev2\\UnitTesting-Exercisev2\\UnitTesting-Exercisev2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
